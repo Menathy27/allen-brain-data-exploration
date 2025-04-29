@@ -1,5 +1,5 @@
 # allen-brain-data-exploration
-This project explores datasets from the Allen Brain Observatory using Google Colab and Python, as introduced in the 2025 TReND-CaMinA Computational Neuroscience Webinar Series.
+This project explores datasets from the Allen Brain Observatory using Google Colab and Python, as introduced in the 2025 Computational Neuroscience Webinar Series.
 
 ## What’s inside
 
